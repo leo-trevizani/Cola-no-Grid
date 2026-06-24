@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: './',
+    base: '/Cola-no-Grid/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
