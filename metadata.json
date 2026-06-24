@@ -1,0 +1,6 @@
+{
+  "name": "Cola no Grid",
+  "description": "Manifesto da comunidade Cola no Grid: onde o design encontra arte, entretenimento e tecnologia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
